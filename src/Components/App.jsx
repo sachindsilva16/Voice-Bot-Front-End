@@ -15,6 +15,7 @@ function App() {
             <HeroContainer/>
 
             <img src={waveImage} alt="" className="vector-image" />
+            
 
 
 
