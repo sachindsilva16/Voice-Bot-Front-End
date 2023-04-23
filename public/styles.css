@@ -1,0 +1,23 @@
+.vector-image{
+    position: absolute;
+    top:56px ;
+    z-index: -1;
+    height: 100px;
+    width: 100%;
+}
+
+/* @media(max-width:976px){
+    .vector-image{
+        position:absolute;
+        top:-200px;
+    }
+} */
+
+@media(min-width:576px){
+    .vector-image{
+        position: absolute;
+        top: 39px;
+        height: 129px;
+        
+    }
+}
